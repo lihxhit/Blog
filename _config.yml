@@ -4,8 +4,8 @@
 
 # Site
 title: 学习笔记
-subtitle: --李邵男1
-description: description
+subtitle: --lihxhit
+description: 学无止境
 author: lihxhit
 language: zh-Hans
 timezone:
@@ -77,4 +77,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/lihxhit/lihxhit.github.io.git
